@@ -247,3 +247,39 @@ You can also contribute by becoming an [official sponsor](https://github.com/spo
 This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
+
+<style>
+  
+.gs-section-01 h3 { 
+     color: red
+}
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+.gs-section-02 h3 { 
+   color: blue
+}  
+
+.gs-section-02 p { 
+   font-style: italic;
+}  
+
+.gs-section-03 h3 { 
+    color: green;
+    text-transform: uppercase; 
+}
+
+.gs-section-03 p {
+    background-color: #f0f0f0;
+}
+
+.gs-section-04 h3 { 
+    color: purple;
+}
+
+.gs-section-04 p {
+    font-weight: bold;
+}
+</style>
