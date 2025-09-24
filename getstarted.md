@@ -1,3 +1,10 @@
+---
+layout: page
+title: Get Started
+subtitle: This is where someone, Dean Attali, who really knows what they are doing, can assist you.
+use-site-title: true
+---
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
